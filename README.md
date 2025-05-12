@@ -1,2 +1,2 @@
-# condas-template
-reusable template for a default condas environment 
+# conda-template
+reusable template for a default conda environment 
